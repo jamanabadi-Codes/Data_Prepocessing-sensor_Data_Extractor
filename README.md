@@ -42,3 +42,17 @@ Sensor Data Extractor is a sophisticated Python application designed for process
 
 ```bash
 pip install pandas matplotlib openpyxl numpy
+```
+
+## Usage
+
+```bash
+python sensor_data_analyzer.py
+```
+
+## Developed By
+- Javad Amanabadi
+- PhD in Structural Engineering
+- Amirkabir University of Technology (Tehran Polytechnic)
+- Email: j.amanabadi@aut.ac.ir | j.amanabadi@gmail.com
+
